@@ -1,0 +1,15 @@
+.bgimg{
+     background-position: center;
+     background-size: cover;
+     background-image:url(OIP.jpeg);
+     min-height: 75%;
+     
+}
+.menu{
+    display: none;
+}
+
+body, html {
+    height: 100%;
+  }
+  
